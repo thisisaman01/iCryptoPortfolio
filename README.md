@@ -3,6 +3,14 @@
 ## Overview
 Production-ready cryptocurrency portfolio & exchange app built with UIKit and Swift, featuring real-time tracking, interactive visualizations, and seamless transactions with modern UI/UX.
 
+## 📱 App Preview
+
+<p align="center">
+  <img src="https://github.com/thisisaman01/iCryptoPortfolio/blob/main/app-pre.gif?raw=true" alt="iCryptoPortfolio App Preview" width="300"/>
+</p>
+
+---
+
 ## 🏗️ Architecture
 - **Pattern**: MVVM with Protocol-Oriented Programming
 - **UI Framework**: 100% Programmatic UIKit (no Storyboards)
